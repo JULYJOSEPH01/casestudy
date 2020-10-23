@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="4" time="15.564">
-<testcase classname="Filling registration form  using automation testscript" name="verify user enable to login functionality properly" time="4.198">
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="4" time="15.645">
+<testcase classname="Filling registration form  using automation testscript" name="verify user enable to login functionality properly" time="4.233">
 <system-out><![CDATA[Given User login the application............................................passed
 Then verify user should  enter "JULY" in specific textbox...................passed
 And Verify user shoud enter "JOSEPH" in textbox.............................passed
@@ -8,7 +8,7 @@ And click on the next button................................................pass
 When click into new page....................................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Filling registration form  using automation testscript" name="Verify user enable to enter mailid properly" time="3.92">
+<testcase classname="Filling registration form  using automation testscript" name="Verify user enable to enter mailid properly" time="3.747">
 <system-out><![CDATA[Given User login the application............................................passed
 Then Verify user should enter mailid in specific textbox....................passed
 And Verify user should enter mailid in confirmemail textbox.................passed
@@ -16,7 +16,7 @@ And Verify user should click on the next button.............................pass
 When Verify user should enter into new page.................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Filling registration form  using automation testscript" name="Verify user enable to enter password properly" time="3.664">
+<testcase classname="Filling registration form  using automation testscript" name="Verify user enable to enter password properly" time="3.987">
 <system-out><![CDATA[Given User login the application............................................passed
 Then Verify user should enter password in specific textbox..................passed
 And Verify user should enter password in confirmpassword  textbox...........passed
@@ -24,7 +24,7 @@ And Verify user should click on the next named button.......................pass
 When Verify user should observe new page....................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Filling registration form  using automation testscript" name="Verify user enable to accept all conditions properly" time="3.359">
+<testcase classname="Filling registration form  using automation testscript" name="Verify user enable to accept all conditions properly" time="3.343">
 <system-out><![CDATA[Given User login the application............................................passed
 Then Verify user should click on checbox for accepting user agreement.......passed
 And user should click on previous button....................................passed

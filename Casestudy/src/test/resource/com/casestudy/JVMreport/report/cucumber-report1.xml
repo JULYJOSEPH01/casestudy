@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="2" time="19.724">
+<testcase classname="Uploading and removing image using automation testscript" name="Verify  user enable to upload an image properly" time="9.176">
+<system-out><![CDATA[Then Verify user should login he application................................passed
+And Verify user should click on Chooseafile text............................passed
+And Verify user should select filename containing image.....................passed
+When verify user should observe upload image suceessfully...................passed
+]]></system-out>
+</testcase>
+<testcase classname="Uploading and removing image using automation testscript" name="Verify user enable to remove image properly" time="10.272">
+<system-out><![CDATA[Then Verify user should click on close button...............................passed
+When Verify user should remove image successfully...........................passed
+]]></system-out>
+</testcase>
+</testsuite>
